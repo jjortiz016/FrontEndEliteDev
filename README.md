@@ -1,4 +1,4 @@
-# FrontEndEliteDev
+# CursoMintic Desarrollo de aplicaciones Web
 Frontend proyecto ciclo 4 EliteDev
 ● Módulo de gestión de usuarios.
 
