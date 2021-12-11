@@ -30,10 +30,10 @@ const Users = () => {
         <div className = "table container">
           <section class="content-header">
                     <h1>
-                        Gestion de usuarios
+                        Gestión de usuarios
                     </h1>
                     <ol class="breadcrumb">
-                        <li><a href="inicio"><i class="fa fa-dashboard"></i> Inicio</a></li>
+                        <li><a href="home"><i class="fa fa-dashboard"></i> Inicio</a></li>
                     
                         <li class="active">Usuarios</li>
                     </ol>
